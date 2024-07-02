@@ -1,2 +1,2 @@
 # platformio
-Projetos ESP32 para cat feeder
+Projetos ESP32 com desenvolvimento em Platformio do VSCode
